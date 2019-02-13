@@ -1,0 +1,5 @@
+redireccionar la señaliacion del ris, la señalizacion sea en un 1 ris,
+
+los tserver deben gestionar con el ris no afectado
+
+deben hacer q todas las llamadas gestionadas por el tserver señalize con el ris no afectado
